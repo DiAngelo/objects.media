@@ -6,7 +6,7 @@
 						 |____|_  /____/  \___  >__|_ \\___  >__|   
 								\/            \/     \/    \/    
 									
-											SASS that ROCKS !!!									
+											SASS that ROCKS !!!
 ```
 # objects.media
 @stubbornella’s media object implemented in Rucker style
